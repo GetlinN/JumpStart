@@ -1,0 +1,16 @@
+Bio Program
+
+Create a program that accepts input from the user and outputs a bio with that information
+Use up to five different attributes about the person to populate the bio
+Output should consist of a paragraph of output created from the users input
+Use Case
+Input
+
+Name: Viola Davis
+Birthday: August 11th, 1980
+Occupation: Actress
+Output
+
+Viola Davis is an actress who is 50 years old.
+Her birthday is on August 11th.
+She is a(n) actress.
